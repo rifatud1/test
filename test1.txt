@@ -2,4 +2,7 @@ I have graduated from Bracu on fall21
 new lines added bruh
 another new line for pushing
 that's a line added for pulling bruh
+that's a line added for pulling bruh
 Trying to learn branching, created a branch call change in text
+Now I am adding this line so that I can send it globally using feature1 branch and then merge it with main using  github
+
